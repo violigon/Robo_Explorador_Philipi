@@ -8,4 +8,4 @@ Componentes do robo explorador:
 * 1 Sensor LDR analógico
 * 1 Sendor de temperatura e umidade DTH11
 
-controlado via Bluetooth com um dispositivo android com o aplicativo que pode ser adquirido no link --> http://www.ardumotive.com/uploads/1/2/7/2/12726513/ardumotivebt_v2.1.apk
+controlado via Bluetooth com um dispositivo Android ou IOS utilando um aplicativo que pode ser adquirido no link --> http://www.ardumotive.com/uploads/1/2/7/2/12726513/ardumotivebt_v2.1.apk
